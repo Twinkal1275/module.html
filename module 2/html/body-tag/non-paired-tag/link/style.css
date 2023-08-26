@@ -1,0 +1,22 @@
+body
+{
+    background-color: aliceblue;
+}
+h1 
+{
+    font-size: 45px;
+    color: blue;
+}
+hr 
+{
+    width: 30%;
+    border: solid 2px blue;
+}
+
+div 
+{
+    width:45%;
+    height: auto;
+    float: left;
+    padding: 2%;
+}
